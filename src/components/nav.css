@@ -1,0 +1,12 @@
+.nav{
+  background-color: black;
+  color: white;
+  display: flex;
+
+  justify-content: center;
+  width: 15rem;
+  height: 40rem;
+}
+.nav-bar{
+  display: flex;
+}
